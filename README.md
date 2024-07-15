@@ -71,6 +71,7 @@ Vehicle cut-in detection is a crucial aspect of advanced driver-assistance syste
    Intuitive Interface: Provides clear and easily understandable information to the driver.
    Customization: Allows drivers to adjust alert sensitivity and system settings based on personal preferences.
 
+
 𝐒𝐓𝐔𝐃𝐄𝐍𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒:
 
 𝐍𝐚𝐦𝐞: Shaik Raheema
@@ -78,6 +79,7 @@ Vehicle cut-in detection is a crucial aspect of advanced driver-assistance syste
 𝐂𝐨𝐮𝐫𝐬𝐞: ECE 4th Semester
 
 𝐂𝐨𝐥𝐥𝐞𝐠𝐞: Vemana Institute of Technology
+
 
 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓 : Vehicle Cut-in Detection
 
