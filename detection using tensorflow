@@ -1,6 +1,5 @@
 # coding: utf-8
 # # Object Detection Demo
-# License: Apache License 2.0 (https://github.com/tensorflow/models/blob/master/LICENSE)
 # source: https://github.com/tensorflow/models
 import numpy as np
 import os
