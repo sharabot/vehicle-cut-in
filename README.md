@@ -1,4 +1,5 @@
-# vehicle-cut-in
+# "VEHICLE CUT-IN DETECTION"
+
 𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓 : Vehicle Cut-in Detection
 
 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖 :
@@ -22,4 +23,4 @@ Detecting vehicle cut-ins is crucial for advanced driver-assistance systems (ADA
 You can download the full project report [shaik raheema - vehicle cut in detection.docx](https://github.com/user-attachments/files/16238629/shaik.raheema.-.vehicle.cut.in.detection.docx)
 
 
-Developed by Kavyashree.K For support or inquiries, please contact shaikraheema.ec2022@vemanait.edu.in
+Developed by Kavyashree.K For support or inquiries, please contact [shaikraheema.ec2022@vemanait.edu.in]
