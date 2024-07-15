@@ -1,10 +1,10 @@
 # "VEHICLE CUT-IN DETECTION"
 
-𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖 :
+## OVERVIEW :
 
 Vehicle cut-in detection is a crucial aspect of advanced driver-assistance systems (ADAS) and autonomous driving. It involves detecting and predicting the sudden appearance or movement of a vehicle into the driving lane from adjacent lanes. This capability enhances road safety by allowing timely and appropriate responses from the vehicle's control system
 
-𝐓𝐀𝐁𝐋𝐄 𝐎𝐅 𝐂𝐎𝐍𝐓𝐄𝐍𝐓𝐒:
+## TABLE OF CONTENTS:
 
    ~ Overview
    
@@ -16,7 +16,7 @@ Vehicle cut-in detection is a crucial aspect of advanced driver-assistance syste
    
    ~ Solution
 
-𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒:
+## FEATURES:
 
 1. 𝐒𝐞𝐧𝐬𝐨𝐫 𝐅𝐮𝐬𝐢𝐨𝐧:
    
@@ -63,16 +63,16 @@ Vehicle cut-in detection is a crucial aspect of advanced driver-assistance syste
  
  9. 𝐒𝐚𝐟𝐞𝐭𝐲 𝐚𝐧𝐝 𝐑𝐞𝐝𝐮𝐧𝐝𝐚𝐧𝐜𝐲:
    
-   Fail-Safe Mechanisms: Includes redundant systems to ensure functionality in case of sensor or system failure.
-   System Diagnostics: Continuously monitors system health and alerts the driver to any malfunctions.
+    Fail-Safe Mechanisms: Includes redundant systems to ensure functionality in case of sensor or system failure.
+    System Diagnostics: Continuously monitors system health and alerts the driver to any malfunctions.
 
 10. 𝐇𝐮𝐦𝐚𝐧-𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 (𝐇𝐌𝐈):
     
-   Intuitive Interface: Provides clear and easily understandable information to the driver.
-   Customization: Allows drivers to adjust alert sensitivity and system settings based on personal preferences.
+    Intuitive Interface: Provides clear and easily understandable information to the driver.
+    Customization: Allows drivers to adjust alert sensitivity and system settings based on personal preferences.
 
 
-𝐒𝐓𝐔𝐃𝐄𝐍𝐓 𝐃𝐄𝐓𝐀𝐈𝐋𝐒:
+## STUDENT DETAILS:
 
 𝐍𝐚𝐦𝐞: Shaik Raheema
 
@@ -81,13 +81,13 @@ Vehicle cut-in detection is a crucial aspect of advanced driver-assistance syste
 𝐂𝐨𝐥𝐥𝐞𝐠𝐞: Vemana Institute of Technology
 
 
-𝐏𝐑𝐎𝐁𝐋𝐄𝐌 𝐒𝐓𝐀𝐓𝐄𝐌𝐄𝐍𝐓 : Vehicle Cut-in Detection
+## PROBLEM STATEMENT: Vehicle Cut-in Detection
 
-𝐒𝐎𝐋𝐔𝐓𝐈𝐎𝐍:
+## SOLUTION:
 
 Detecting vehicle cut-ins is crucial for advanced driver-assistance systems (ADAS) and autonomous driving. A cut-in scenario typically involves a vehicle moving into your lane from an adjacent lane, often suddenly. By using machine learning and python with real time equipments.
 
-𝐑𝐄𝐏𝐎𝐑𝐓:
+## REPORT:
 
 You can download the full project report [here.](https://github.com/user-attachments/files/16239448/shaik.raheema.-.vehicle.cut.in.detection.docx)
 
